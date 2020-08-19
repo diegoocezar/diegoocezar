@@ -11,7 +11,7 @@
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </a>
-   target="_blank"<a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3">
     <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </a>
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
