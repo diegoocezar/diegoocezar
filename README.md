@@ -59,12 +59,12 @@
 
 <h3><b>Study projects</b></h3>
 
-<p><img src="https://emojis.slackmojis.com/emojis/images/1450319459/134/death_star.png?1450319459" width="30"/> Star Wars Challenge - <a href="https://github.com/diegoocezar/sw-challenge">Repository</a> / <a href="https://diegoocezar.github.io/sw-challenge/">Github Pages</a></p>
+<p><img src="https://emojis.slackmojis.com/emojis/images/1450319459/134/death_star.png?1450319459" width="30"/> Star Wars Challenge - <a href="https://github.com/diegoocezar/sw-challenge">Repository</a></p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoocezar&repo=sw-challenge)](https://github.com/diegoocezar/sw-challenge)
 
 <br />
-<p>🎮&nbsp; Memory Game - <a href="https://github.com/diegoocezar/memory-game">Repository</a> / <a href="https://diegoocezar.github.io/memory-game/">Github Pages</a></p>
+<p>🎮&nbsp; Memory Game - <a href="https://github.com/diegoocezar/memory-game">Repository</a></p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoocezar&repo=memory-game)](https://github.com/diegoocezar/memory-game)
 
