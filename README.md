@@ -64,9 +64,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoocezar&repo=sw-challenge)](https://github.com/diegoocezar/sw-challenge)
 
 <br />
-<p>🎮&nbsp; Memory Game - <a href="https://github.com/diegoocezar/memory-game">Repository</a></p>
+<p>🎮&nbsp; AnimatedProduct - <a href="https://github.com/diegoocezar/AnimatedProduct">Repository</a></p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoocezar&repo=memory-game)](https://github.com/diegoocezar/memory-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoocezar&repo=AnimatedProduct)](https://github.com/diegoocezar/AnimatedProduct)
 
 
 <br />
