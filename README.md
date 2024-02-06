@@ -3,7 +3,7 @@
 <p>Welcome to my github page!</p>
 <p>I'm Diego Cezar, Front-end developer 👨🏾‍💻&nbsp; , coffee addicted ☕️&nbsp; and pet lover 🐶&nbsp; from <b>Rio de Janeiro, Brazil</b> 🇧🇷.</p>
 <p>I'm currently studying Typescript, animation for React Native, Javascript for Backend and AWS, my next goals are to start contributing to Open Source projects and create my own. </p>
-<p>I'm currently working as Front-end developer at <a href="https://www.grupoboticario.com.br/">Grupo Boticário<img src="https://raw.githubusercontent.com/diegoocezar/diegoocezar/master/assets/logo-copy-3.png" width="30" /></a>, and <a href="https://grupoboticario.gupy.io/"> we are hiring</a> !</p>
+<p>I'm currently working as Front-end developer at <a href="https://www.grupoboticario.com.br/">Grupo Boticário<img src="https://raw.githubusercontent.com/diegoocezar/diegoocezar/master/assets/logo.png" width="30" /></a>, and <a href="https://grupoboticario.gupy.io/"> we are hiring</a> !</p>
 
 
 <h3><b>Things I code with</b>:</h3>
