@@ -1,12 +1,12 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=""/> Hey, nice to see you.</h1>
 
 <p>Welcome to my github page!</p>
-<p>I'm Diego Cezar, Front-end developer 👨🏾‍💻&nbsp; , coffee addicted ☕️&nbsp; and pet lover 🐶&nbsp; from <b>Rio de Janeiro, Brazil</b> <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>.</p>
+<p>I'm Diego Cezar, Front-end developer 👨🏾‍💻&nbsp; , coffee addicted ☕️&nbsp; and pet lover 🐶&nbsp; from <b>Rio de Janeiro, Brazil</b> 🇧🇷.</p>
 <p>I'm currently studying Typescript, animation for React Native, Javascript for Backend and AWS, my next goals are to start contributing to Open Source projects and create my own. </p>
-<p>I'm currently working as Front-end developer at <a href="https://www.amedigital.com/"><img src="https://raw.githubusercontent.com/diegoocezar/diegoocezar/master/assets/logo-copy-3.png" width="60" /></a>, and <a href="https://www.amedigital.com/sobre/"> we are hiring</a> !</p>
+<p>I'm currently working as Front-end developer at <a href="https://www.grupoboticario.com.br/">Grupo Boticário<img src="https://raw.githubusercontent.com/diegoocezar/diegoocezar/master/assets/logo-copy-3.png" width="30" /></a>, and <a href="https://grupoboticario.gupy.io/"> we are hiring</a> !</p>
 
 
-<h3><b>Things I code with</b> <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> </h3>
+<h3><b>Things I code with</b>:</h3>
 <p>
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -117,9 +117,6 @@
 
 <h3><b>Spotify Playing </b>🎧</h3>
 
-<a target="_blank" href="https://open.spotify.com/user/diegoocezar">
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250"> 
- </a>
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       
 <a target="_blank" href="https://open.spotify.com/user/diegoocezar">
 
